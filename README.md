@@ -235,7 +235,7 @@ Delete the `terraform.tfstate` file and reapply if state is corrupted.
 
 
 
-
+##
 ❌🔴⚠️ Main drawback of the count meta-argument ⚠️🔴❌
 
 🔍 Index-based resource management (BIG problem)
@@ -275,7 +275,7 @@ Downtime
 Unexpected infra changes
 
 ❌🔴
-
+##
 
 
 ## License
