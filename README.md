@@ -233,16 +233,6 @@ Delete the `terraform.tfstate` file and reapply if state is corrupted.
 - M Subnets (where M = length of subnet_cidr list)
 - 1 Firewall Rule
 
-## License
-
-This project is licensed under the MIT License.
-
-## Support
-
-For issues or questions, refer to:
-- [Terraform Documentation](https://www.terraform.io/docs)
-- [Google Cloud Terraform Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
-- [Terraform Count Meta-Argument](https://www.terraform.io/language/meta-arguments/count)
 
 
 
@@ -285,3 +275,16 @@ Downtime
 Unexpected infra changes
 
 ❌🔴
+
+
+
+## License
+
+This project is licensed under the MIT License.
+
+## Support
+
+For issues or questions, refer to:
+- [Terraform Documentation](https://www.terraform.io/docs)
+- [Google Cloud Terraform Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
+- [Terraform Count Meta-Argument](https://www.terraform.io/language/meta-arguments/count)
